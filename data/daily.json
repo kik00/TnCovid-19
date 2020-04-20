@@ -1,0 +1,21 @@
+[
+    {
+        "date": "2020-04-18",
+        "country": "TUN",
+        "cases": 879,
+        "newCases": 13,
+        "deaths": 38,
+        "newDeaths": 0,
+        "recovered": null,
+        "newRecovered" : 0,
+        "activeCases": null,
+        "criticalCases": null,
+        "casesPerOneMillion": null,
+        "deathsPerOneMillion": null,
+        "tests": 16098,
+        "newTests": 766,
+        "testsPerOneMillion": null,
+        "affectedStates": 24,
+        "note": null
+    }
+]

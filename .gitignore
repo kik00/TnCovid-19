@@ -17,5 +17,6 @@
 Thumbs.db
 .bak
 
-# Changelog test
-changelog.txt
+*.php
+*.png
+/assets/*
