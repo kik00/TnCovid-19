@@ -36,5 +36,24 @@
         "testsPerOneMillion": null,
         "affectedStates": 24,
         "note": "Due to informations source, some totals are not correct"
+    },
+    {
+        "date": "2020-04-20",
+        "country": "TUN",
+        "cases": 901,
+        "newCases": 17,
+        "deaths": 38,
+        "newDeaths": 0,
+        "recovered": 170,
+        "newRecovered" : 0,
+        "activeCases": null,
+        "criticalCases": 25,
+        "casesPerOneMillion": null,
+        "deathsPerOneMillion": null,
+        "tests": 18165,
+        "newTests": 878,
+        "testsPerOneMillion": null,
+        "affectedStates": 24,
+        "note": "85 hospitalized cases"
     }
 ]

@@ -1,19 +1,19 @@
 {
-    "date": "2020-04-19",
+    "date": "2020-04-20",
     "country": "TUN",
-    "cases": 884,
-    "newCases": 5,
+    "cases": 901,
+    "newCases": 17,
     "deaths": 38,
     "newDeaths": 0,
-    "recovered": null,
+    "recovered": 170,
     "newRecovered" : 0,
     "activeCases": null,
-    "criticalCases": null,
+    "criticalCases": 25,
     "casesPerOneMillion": null,
     "deathsPerOneMillion": null,
-    "tests": 17287,
-    "newTests": 1189,
+    "tests": 18165,
+    "newTests": 878,
     "testsPerOneMillion": null,
     "affectedStates": 24,
-    "note": "Due to informations source, some totals are not correct"
+    "note": "85 hospitalized cases"
 }

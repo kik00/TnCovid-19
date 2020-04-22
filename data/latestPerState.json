@@ -1,22 +1,22 @@
 [
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Tunis",
-        "cases": 193,
-        "newCases": 0,
+        "cases": 195,
+        "newCases": 2,
         "deaths": 6,
         "newDeaths": 0,
         "recovered": null,
         "newRecovered" : null,
         "tests": null,
-        "newTests": 888,
-        "note":"181 Tests from The mobile laboratory of the Ministry of Defense"
+        "newTests": 0,
+        "note":"No details for Test"
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Ariana",
-        "cases": 89,
-        "newCases": 0,
+        "cases": 93,
+        "newCases": 4,
         "deaths": 5,
         "newDeaths": 0,
         "recovered": null,
@@ -26,9 +26,22 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "BenArous",
-        "cases": 87,
+        "cases": 91,
+        "newCases": 4,
+        "deaths": 3,
+        "newDeaths": 0,
+        "recovered": null,
+        "newRecovered" : null,
+        "tests": null,
+        "newTests": null,
+        "note":null
+    },
+    {
+        "date" : "2020-04-20",
+        "name": "Médenine",
+        "cases": 85,
         "newCases": 0,
         "deaths": 3,
         "newDeaths": 0,
@@ -39,22 +52,9 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
-        "name": "Médenine",
-        "cases": 85,
-        "newCases": 1,
-        "deaths": 3,
-        "newDeaths": 0,
-        "recovered": null,
-        "newRecovered" : null,
-        "tests": null,
-        "newTests": null,
-        "note":null
-    },
-    {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Kébili",
-        "cases": 83,
+        "cases": 85,
         "newCases": 0,
         "deaths": 0,
         "newDeaths": 0,
@@ -65,9 +65,9 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Sousse",
-        "cases": 73,
+        "cases": 74,
         "newCases": 1,
         "deaths": 5,
         "newDeaths": 0,
@@ -78,7 +78,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Manouba",
         "cases": 38,
         "newCases": 0,
@@ -91,23 +91,23 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Monastir",
         "cases": 37,
         "newCases": 0,
         "deaths": 0,
         "newDeaths": 0,
         "recovered": null,
-        "newRecovered" : 1,
+        "newRecovered" : 0,
         "tests": null,
         "newTests": 96,
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Gafsa",
-        "cases": 32,
-        "newCases": 0,
+        "cases": 33,
+        "newCases": 1,
         "deaths": 0,
         "newDeaths": 0,
         "recovered": null,
@@ -117,7 +117,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Tataouine",
         "cases": 32,
         "newCases": 0,
@@ -130,23 +130,23 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Sfax",
-        "cases": 34,
+        "cases": 36,
         "newCases": 2,
         "deaths": 5,
         "newDeaths": 0,
         "recovered": null,
         "newRecovered" : null,
         "tests": 0,
-        "newTests": 105,
+        "newTests": 0,
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Gabès",
-        "cases": 21,
-        "newCases": 0,
+        "cases": 22,
+        "newCases": 1,
         "deaths": 0,
         "newDeaths": 0,
         "recovered": null,
@@ -156,9 +156,22 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Bizerte",
-        "cases": 18,
+        "cases": 19,
+        "newCases": 1,
+        "deaths": 1,
+        "newDeaths": 0,
+        "recovered": null,
+        "newRecovered" : null,
+        "tests": null,
+        "newTests": null,
+        "note":null
+    },
+    {
+        "date" : "2020-04-20",
+        "name": "Mahdia",
+        "cases": 15,
         "newCases": 0,
         "deaths": 1,
         "newDeaths": 0,
@@ -169,20 +182,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
-        "name": "Mahdia",
-        "cases": 15,
-        "newCases": 2,
-        "deaths": 1,
-        "newDeaths": 0,
-        "recovered": null,
-        "newRecovered" : null,
-        "tests": null,
-        "newTests": null,
-        "note":null
-    },
-    {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Nabeul",
         "cases": 12,
         "newCases": 0,
@@ -195,7 +195,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Kairouan",
         "cases": 6,
         "newCases": 0,
@@ -208,7 +208,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "LeKef",
         "cases": 5,
         "newCases": 0,
@@ -221,7 +221,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "SidiBouzid",
         "cases": 5,
         "newCases": 0,
@@ -234,7 +234,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Kasserine",
         "cases": 5,
         "newCases": 0,
@@ -247,7 +247,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Tozeur",
         "cases": 5,
         "newCases": 0,
@@ -260,7 +260,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Béja",
         "cases": 3,
         "newCases": 0,
@@ -273,7 +273,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Zaghouan",
         "cases": 3,
         "newCases": 0,
@@ -286,7 +286,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Jendouba",
         "cases": 1,
         "newCases": 0,
@@ -299,7 +299,7 @@
         "note":null
     },
     {
-        "date" : "2020-04-19",
+        "date" : "2020-04-20",
         "name": "Siliana",
         "cases": 1,
         "newCases": 0,
