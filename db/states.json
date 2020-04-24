@@ -1,28 +1,124 @@
 {
     "states": [
-        "Tunis",
-        "Ariana",
-        "BenArous",
-        "Médenine",
-        "Kébili",
-        "Sousse",
-        "Manouba",
-        "Monastir",
-        "Gafsa",
-        "Tataouine",
-        "Sfax",
-        "Gabès",
-        "Bizerte",
-        "Mahdia",
-        "Nabeul",
-        "Kairouan",
-        "LeKef",
-        "SidiBouzid",
-        "Kasserine",
-        "Tozeur",
-        "Béja",
-        "Zaghouan",
-        "Jendouba",
-        "Siliana"
+        {
+            "FR" : "Tunis",
+            "AR" : "تونس",
+            "isoCode" : "TN-11"
+        },
+        {
+            "FR" : "Ariana",
+            "AR" : "أريانة",
+            "isoCode" : "TN-12"
+        },
+        {
+            "FR" : "BenArous",
+            "AR" : "بن عروس",
+            "isoCode" : "TN-13"
+        },
+        {
+            "FR" : "Médenine",
+            "AR" : "مدنين",
+            "isoCode" : "TN-82"
+        },
+        {
+            "FR" : "Kébili",
+            "AR" : "قبلّي",
+            "isoCode" : "TN-73"
+        },
+        {
+            "FR" : "Sousse",
+            "AR" : "سوسة",
+            "isoCode" : "TN-51"
+        },
+        {
+            "FR" : "Manouba",
+            "AR" : "منّوبة",
+            "isoCode" : "TN-14"
+        },
+        {
+            "FR" : "Monastir",
+            "AR" : "منستير",
+            "isoCode" : "TN-52"
+        },
+        {
+            "FR" : "Gafsa",
+            "AR" : "قفصة",
+            "isoCode" : "TN-71"
+        },
+        {
+            "FR" : "Tataouine",
+            "AR" : "تطاوين",
+            "isoCode" : "TN-83"
+        },
+        {
+            "FR" : "Sfax",
+            "AR" : "صفاقس",
+            "isoCode" : "TN-61"
+        },
+        {
+            "FR" : "Gabès",
+            "AR" : "قابس",
+            "isoCode" : "TN-81"
+        },
+        {
+            "FR" : "Bizerte",
+            "AR" : "بنزرت",
+            "isoCode" : "TN-23"
+        },
+        {
+            "FR" : "Mahdia",
+            "AR" : "مهديّة",
+            "isoCode" : "TN-53"
+        },
+        {
+            "FR" : "Nabeul",
+            "AR" : "نابل",
+            "isoCode" : "TN-21"
+        },
+        {
+            "FR" : "Kairouan",
+            "AR" : "قيروان",
+            "isoCode" : "TN-41"
+        },
+        {
+            "FR" : "LeKef",
+            "AR" : "الكاف",
+            "isoCode" : "TN-33"
+        },
+        {
+            "FR" : "SidiBouzid",
+            "AR" : "سيدي بوزيد",
+            "isoCode" : "TN-43"
+        },
+        {
+            "FR" : "Kasserine",
+            "AR" : "قصرين",
+            "isoCode" : "TN-42"
+        },
+        {
+            "FR" : "Tozeur",
+            "AR" : "توزر",
+            "isoCode" : "TN-72"
+        },
+        {
+            "FR" : "Béja",
+            "AR" : "باجة",
+            "isoCode" : "TN-31"
+        },
+        {
+            "FR" : "Zaghouan",
+            "AR" : "زغوان",
+            "isoCode" : "TN-22"
+        },
+        {
+            "FR" : "Jendouba",
+            "AR" : "جندوبة",
+            "isoCode" : "TN-32"
+        },
+        {
+            "FR" : "Siliana",
+            "AR" : "سليانة",
+            "isoCode" : "TN-34"
+        }
     ]
 }
