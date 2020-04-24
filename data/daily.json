@@ -93,5 +93,24 @@
         "testsPerOneMillion": null,
         "affectedStates": 24,
         "note": "Details of tests were not communicated 93 hospitalized cases"
+    },
+    {
+        "date": "2020-04-23",
+        "country": "TUN",
+        "cases": 922,
+        "newCases": 4,
+        "deaths": 38,
+        "newDeaths": 0,
+        "recovered": 194,
+        "newRecovered" : 4,
+        "activeCases": null,
+        "criticalCases": 20,
+        "casesPerOneMillion": null,
+        "deathsPerOneMillion": null,
+        "tests": 19849,
+        "newTests": 438,
+        "testsPerOneMillion": null,
+        "affectedStates": 24,
+        "note": "Details of tests were not communicated 90 hospitalized cases"
     }
 ]
