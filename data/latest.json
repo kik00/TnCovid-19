@@ -1,19 +1,19 @@
 {
-    "date": "2020-04-23",
+    "date": "2020-04-24",
     "country": "TUN",
-    "cases": 922,
-    "newCases": 4,
+    "cases": 939,
+    "newCases": 17,
     "deaths": 38,
     "newDeaths": 0,
-    "recovered": 194,
-    "newRecovered" : 4,
+    "recovered": 207,
+    "newRecovered" : 13,
     "activeCases": null,
-    "criticalCases": 20,
+    "criticalCases": 19,
     "casesPerOneMillion": null,
     "deathsPerOneMillion": null,
-    "tests": 19849,
-    "newTests": 438,
+    "tests": 20408,
+    "newTests": 559,
     "testsPerOneMillion": null,
     "affectedStates": 24,
-    "note": "Details of tests were not communicated 90 hospitalized cases"
+    "note": "Details of tests were not communicated 84 hospitalized cases"
 }
