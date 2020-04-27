@@ -1,6 +1,6 @@
 <div align="center"><img src="tunisia.png"><hr><br/><br/></div>
 Daily Updates after the press release from the tunisian ministry of health.<br>
-Last Update : 26/04/2020 @ 23:00
+Last Update : 27/04/2020 @ 23:30
 
 # COVID-19 Tunisian Data
 
