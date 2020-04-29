@@ -379,5 +379,25 @@
         "testsPerOneMillion": null,
         "affectedStates": 24,
         "note": "Details of tests were not communicated"
+    },
+    {
+        "date": "2020-04-28",
+        "country": "TUN",
+        "cases": 980,
+        "newCases": 5,
+        "deaths": 40,
+        "newDeaths": 0,
+        "recovered": 294,
+        "newRecovered" : 15,
+        "activeCases": null,
+        "criticalCases": 20,
+        "hospitalizedCases": 72,
+        "casesPerOneMillion": null,
+        "deathsPerOneMillion": null,
+        "tests": 22062,
+        "newTests": 585,
+        "testsPerOneMillion": null,
+        "affectedStates": 24,
+        "note": "Details of tests were not communicated"
     }
 ]
