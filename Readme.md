@@ -1,6 +1,6 @@
 <div align="center"><img src="tunisia.png"><hr><br/><br/></div>
 Daily Updates after the press release from the tunisian ministry of health.<br>
-Last Update : 02/05/2020 @ 23:01
+Last Update : 03/05/2020 @ 23:45
 
 # COVID-19 Tunisian Data
 
@@ -21,3 +21,4 @@ All Data is saved in ./data folder.
 
 The mobile laboratory analyzes of the Ministry of Defense is counted with Tunis Tests.
 <br/>
+Details of Tests are no more provided from the ministry of health so the field will be null for now.
