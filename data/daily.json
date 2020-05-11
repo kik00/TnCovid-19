@@ -191,6 +191,26 @@
         "note": ""
     },
     {
+        "date": "2020-04-17",
+        "country": "TUN",
+        "cases": 866,
+        "newCases": 2,
+        "deaths": 37,
+        "newDeaths": 0,
+        "recovered": 0,
+        "newRecovered": 0,
+        "activeCases": 829,
+        "criticalCases": 0,
+        "hospitalizedCases": null,
+        "casesPerOneMillion": 73,
+        "deathsPerOneMillion": 3,
+        "tests": 15332,
+        "newTests": 692,
+        "testsPerOneMillion": 1307,
+        "affectedStates": 24,
+        "note": ""
+    },
+    {
         "date": "2020-04-18",
         "country": "TUN",
         "cases": 879,
