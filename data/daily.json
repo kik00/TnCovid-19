@@ -640,5 +640,25 @@
         "testsPerOneMillion": 2799,
         "affectedStates": 24,
         "note": "Details of tests were not communicated and 3229 Tests From the military Hospital was counted today"
+    },
+    {
+        "date": "2020-05-10",
+        "country": "TUN",
+        "cases": 1032,
+        "newCases": 0,
+        "deaths": 45,
+        "newDeaths": 0,
+        "recovered": 727,
+        "newRecovered": 27,
+        "activeCases": 260,
+        "criticalCases": 7,
+        "hospitalizedCases": null,
+        "casesPerOneMillion": 88,
+        "deathsPerOneMillion": 3,
+        "tests": 33266,
+        "newTests": 448,
+        "testsPerOneMillion": 2837,
+        "affectedStates": 24,
+        "note": "Details of tests were not communicated"
     }
 ]
