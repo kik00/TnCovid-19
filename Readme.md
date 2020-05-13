@@ -1,6 +1,6 @@
 <div align="center"><img src="tunisia.png"><hr><br/><br/></div>
 Daily Updates after the press release from the tunisian ministry of health.<br>
-Last Update : 12/05/2020 @ 18:12
+Last Update : 13/05/2020 @ 03:25
 
 # COVID-19 Tunisian Data
 
@@ -23,4 +23,4 @@ The mobile laboratory analyzes of the Ministry of Defense is counted with Tunis 
 <br/>
 Details of Tests are no more provided from the ministry of health so the field will be null for now.
 <br/>
-The Results of 10/05/2020 shows that this is the second day that Tunisia does not have neither a single new neither a new deaths.
+The Results of 10/05/2020 shows that this is the second day that Tunisia does not have neither a single new case neither a new deaths.
