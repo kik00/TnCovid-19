@@ -1,20 +1,20 @@
 {
-    "date": "2020-05-11",
+    "date": "2020-05-12",
     "country": "TUN",
     "cases": 1032,
     "newCases": 0,
     "deaths": 45,
     "newDeaths": 0,
-    "recovered": 740,
-    "newRecovered": 13,
-    "activeCases": 247,
+    "recovered": 759,
+    "newRecovered": 19,
+    "activeCases": 228,
     "criticalCases": 5,
     "hospitalizedCases": null,
     "casesPerOneMillion": 88,
     "deathsPerOneMillion": 3,
-    "tests": 33880,
-    "newTests": 614,
+    "tests": 34323,
+    "newTests": 443,
     "testsPerOneMillion": 2890,
     "affectedStates": 24,
-    "note": "Details of tests were not communicated & There is an error in calculating the sum of recovered cases"
+    "note": ""
 }
