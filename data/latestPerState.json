@@ -1,71 +1,71 @@
 [
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Tunis",
-        "cases": 232,
-        "newCases": 0,
+        "cases": 233,
+        "newCases": 1,
         "deaths": 8,
         "newDeaths": 0,
-        "recovered": 182,
-        "newRecovered": 5,
+        "recovered": 186,
+        "newRecovered": 4,
         "tests": null,
-        "newTests": 1884,
-        "note": null
+        "newTests": 1036,
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Ariana",
         "cases": 99,
         "newCases": 0,
         "deaths": 5,
         "newDeaths": 0,
-        "recovered": 82,
-        "newRecovered": 0,
+        "recovered": 84,
+        "newRecovered": 2,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "BenArous",
         "cases": 97,
         "newCases": 0,
         "deaths": 4,
         "newDeaths": 0,
-        "recovered": 81,
-        "newRecovered": 1,
+        "recovered": 83,
+        "newRecovered": 2,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Manouba",
         "cases": 40,
         "newCases": 0,
         "deaths": 5,
         "newDeaths": 0,
-        "recovered": 24,
-        "newRecovered": 1,
+        "recovered": 26,
+        "newRecovered": 2,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Nabeul",
         "cases": 15,
         "newCases": 0,
         "deaths": 1,
         "newDeaths": 0,
-        "recovered": 13,
-        "newRecovered": 0,
+        "recovered": 14,
+        "newRecovered": 1,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Zaghouan",
         "cases": 3,
         "newCases": 0,
@@ -75,23 +75,23 @@
         "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Bizerte",
         "cases": 25,
         "newCases": 0,
         "deaths": 1,
         "newDeaths": 0,
         "recovered": 19,
-        "newRecovered": 1,
+        "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Béja",
         "cases": 4,
         "newCases": 0,
@@ -101,10 +101,10 @@
         "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Jendouba",
         "cases": 1,
         "newCases": 0,
@@ -114,23 +114,23 @@
         "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "LeKef",
         "cases": 8,
         "newCases": 0,
         "deaths": 1,
         "newDeaths": 0,
-        "recovered": 4,
-        "newRecovered": 0,
+        "recovered": 6,
+        "newRecovered": 2,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Siliana",
         "cases": 4,
         "newCases": 0,
@@ -140,10 +140,10 @@
         "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Kairouan",
         "cases": 8,
         "newCases": 0,
@@ -153,10 +153,10 @@
         "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Kasserine",
         "cases": 8,
         "newCases": 0,
@@ -166,10 +166,10 @@
         "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "SidiBouzid",
         "cases": 6,
         "newCases": 0,
@@ -179,36 +179,36 @@
         "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Sousse",
         "cases": 84,
         "newCases": 0,
         "deaths": 7,
         "newDeaths": 0,
-        "recovered": 66,
-        "newRecovered": 0,
+        "recovered": 68,
+        "newRecovered": 2,
         "tests": null,
-        "newTests": 79,
-        "note": null
+        "newTests": 114,
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Monastir",
         "cases": 40,
         "newCases": 0,
         "deaths": 0,
         "newDeaths": 0,
-        "recovered": 37,
-        "newRecovered": 0,
+        "recovered": 38,
+        "newRecovered": 1,
         "tests": null,
-        "newTests": 45,
-        "note": null
+        "newTests": 119,
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Mahdia",
         "cases": 17,
         "newCases": 0,
@@ -218,36 +218,36 @@
         "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Sfax",
         "cases": 36,
         "newCases": 0,
         "deaths": 5,
         "newDeaths": 0,
-        "recovered": 22,
-        "newRecovered": 0,
+        "recovered": 26,
+        "newRecovered": 4,
         "tests": null,
-        "newTests": 14,
-        "note": null
+        "newTests": 70,
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Gafsa",
-        "cases": 45,
-        "newCases": 0,
+        "cases": 47,
+        "newCases": 2,
         "deaths": 0,
         "newDeaths": 0,
-        "recovered": 23,
-        "newRecovered": 0,
+        "recovered": 29,
+        "newRecovered": 6,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Tozeur",
         "cases": 5,
         "newCases": 0,
@@ -257,23 +257,23 @@
         "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Kébili",
         "cases": 106,
         "newCases": 0,
         "deaths": 0,
         "newDeaths": 0,
-        "recovered": 56,
-        "newRecovered": 1,
+        "recovered": 62,
+        "newRecovered": 6,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Gabès",
         "cases": 23,
         "newCases": 0,
@@ -283,23 +283,23 @@
         "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Médenine",
         "cases": 90,
         "newCases": 0,
         "deaths": 5,
         "newDeaths": 0,
         "recovered": 71,
-        "newRecovered": 2,
+        "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     },
     {
-        "date": "2020-05-13",
+        "date": "2020-05-14",
         "name": "Tataouine",
         "cases": 36,
         "newCases": 0,
@@ -309,6 +309,6 @@
         "newRecovered": 0,
         "tests": null,
         "newTests": null,
-        "note": null
+        "note": ""
     }
 ]
