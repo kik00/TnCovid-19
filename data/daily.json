@@ -40,6 +40,26 @@
         "note": "No more details were not communicated"
     },
     {
+        "date": "2020-03-04",
+        "country": "TUN",
+        "cases": 1,
+        "newCases": 0,
+        "deaths": 0,
+        "newDeaths": 0,
+        "recovered": 0,
+        "newRecovered": 0,
+        "activeCases": 1,
+        "criticalCases": 0,
+        "hospitalizedCases": null,
+        "casesPerOneMillion": 0,
+        "deathsPerOneMillion": 0,
+        "tests": 1,
+        "newTests": 0,
+        "testsPerOneMillion": 0,
+        "affectedStates": 1,
+        "note": "No more details were not communicated"
+    },
+    {
         "date": "2020-03-07",
         "country": "TUN",
         "cases": 1,
