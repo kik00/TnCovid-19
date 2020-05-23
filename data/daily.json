@@ -110,13 +110,14 @@
         "newRecovered": 0,
         "activeCases": 1,
         "criticalCases": 0,
+        "hospitalizedCases": null,
         "casesPerOneMillion": 0,
         "deathsPerOneMillion": 0,
         "tests": 136,
         "newTests": 8,
         "testsPerOneMillion": 11,
         "affectedStates": 1,
-        "note": ""
+        "note": "No more details were not communicated"
     },
     {
         "date": "2020-03-08",
