@@ -983,5 +983,25 @@
         "testsPerOneMillion": 4079,
         "affectedStates": 24,
         "note": ""
+    },
+    {
+        "date": "2020-05-24",
+        "country": "TUN",
+        "cases": 1051,
+        "newCases": 0,
+        "deaths": 48,
+        "newDeaths": 0,
+        "recovered": 919,
+        "newRecovered": 2,
+        "activeCases": 84,
+        "criticalCases": 3,
+        "hospitalizedCases": null,
+        "casesPerOneMillion": 89,
+        "deathsPerOneMillion": 4,
+        "tests": 48476,
+        "newTests": 660,
+        "testsPerOneMillion": 4135,
+        "affectedStates": 24,
+        "note": ""
     }
 ]
