@@ -1,19 +1,19 @@
 [
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Tunis",
         "cases": 238,
-        "newCases": 2,
+        "newCases": 0,
         "deaths": 9,
         "newDeaths": 0,
         "recovered": 219,
-        "newRecovered": 1,
+        "newRecovered": 0,
         "tests": null,
         "newTests": null,
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Ariana",
         "cases": 102,
         "newCases": 0,
@@ -26,7 +26,7 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "BenArous",
         "cases": 99,
         "newCases": 0,
@@ -39,7 +39,7 @@
         "note": "Correction of Total Cases Number"
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Manouba",
         "cases": 41,
         "newCases": 0,
@@ -52,10 +52,10 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Nabeul",
-        "cases": 17,
-        "newCases": 0,
+        "cases": 18,
+        "newCases": 1,
         "deaths": 1,
         "newDeaths": 0,
         "recovered": 14,
@@ -65,7 +65,7 @@
         "note": "Correction Of Total Cases"
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Zaghouan",
         "cases": 3,
         "newCases": 0,
@@ -78,10 +78,10 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Bizerte",
         "cases": 28,
-        "newCases": 1,
+        "newCases": 0,
         "deaths": 1,
         "newDeaths": 0,
         "recovered": 25,
@@ -91,7 +91,7 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Béja",
         "cases": 5,
         "newCases": 0,
@@ -104,7 +104,7 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Jendouba",
         "cases": 1,
         "newCases": 0,
@@ -117,7 +117,7 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "LeKef",
         "cases": 8,
         "newCases": 0,
@@ -130,7 +130,7 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Siliana",
         "cases": 4,
         "newCases": 0,
@@ -143,7 +143,7 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Kairouan",
         "cases": 10,
         "newCases": 0,
@@ -156,7 +156,7 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Kasserine",
         "cases": 9,
         "newCases": 0,
@@ -169,10 +169,10 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "SidiBouzid",
         "cases": 10,
-        "newCases": 1,
+        "newCases": 0,
         "deaths": 1,
         "newDeaths": 0,
         "recovered": 7,
@@ -182,23 +182,23 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Sousse",
-        "cases": 89,
-        "newCases": 0,
+        "cases": 90,
+        "newCases": 1,
         "deaths": 7,
         "newDeaths": 0,
         "recovered": 78,
-        "newRecovered": 1,
+        "newRecovered": 0,
         "tests": null,
         "newTests": null,
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Monastir",
         "cases": 44,
-        "newCases": 1,
+        "newCases": 0,
         "deaths": 0,
         "newDeaths": 0,
         "recovered": 41,
@@ -208,7 +208,7 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Mahdia",
         "cases": 19,
         "newCases": 0,
@@ -221,20 +221,20 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Sfax",
         "cases": 38,
         "newCases": 0,
         "deaths": 5,
         "newDeaths": 0,
         "recovered": 32,
-        "newRecovered": 1,
+        "newRecovered": 0,
         "tests": null,
         "newTests": null,
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Gafsa",
         "cases": 49,
         "newCases": 0,
@@ -247,7 +247,7 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Tozeur",
         "cases": 5,
         "newCases": 0,
@@ -260,20 +260,20 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Kébili",
         "cases": 108,
         "newCases": 0,
         "deaths": 1,
         "newDeaths": 0,
-        "recovered": 94,
-        "newRecovered": 0,
+        "recovered": 95,
+        "newRecovered": 1,
         "tests": null,
         "newTests": null,
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Gabès",
         "cases": 28,
         "newCases": 0,
@@ -286,23 +286,23 @@
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Médenine",
         "cases": 92,
-        "newCases": 1,
+        "newCases": 0,
         "deaths": 5,
         "newDeaths": 0,
         "recovered": 82,
-        "newRecovered": 1,
+        "newRecovered": 0,
         "tests": null,
         "newTests": null,
         "note": null
     },
     {
-        "date": "2020-05-30",
+        "date": "2020-05-31",
         "name": "Tataouine",
         "cases": 37,
-        "newCases": 1,
+        "newCases": 0,
         "deaths": 1,
         "newDeaths": 0,
         "recovered": 33,
