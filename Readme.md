@@ -1,6 +1,6 @@
 <div align="center"><img src="tunisia.png"><hr><br/><br/></div>
 Daily Updates after the press release from the tunisian ministry of health.<br>
-Last Update : 10/06/2020 @ 23:42
+Last Update : 10/06/2020 @ 23:45
 
 # COVID-19 Tunisian Data
 
@@ -28,5 +28,3 @@ The Results of 10/05/2020 shows that this is the second day that Tunisia does no
 The 13/05/2020 is The 5th day in a row without corona new cases or deaths recorded.
 <br/>
 There are two type of cases : those who are local and those who were not in Tunisia and they just arrived.
-<br/>
-Due To some Reasons, we did not update the repository since 2020/06/01. We Are Sorry for that and we hope that our apologize will be accepted.
