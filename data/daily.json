@@ -1223,5 +1223,25 @@
         "testsPerOneMillion": 4662,
         "affectedStates": 24,
         "note": "Details of Tests were not communicated"
+    },
+    {
+        "date": "2020-06-05",
+        "country": "TUN",
+        "cases": 1087,
+        "newCases": 0,
+        "deaths": 49,
+        "newDeaths": 0,
+        "recovered": 982,
+        "newRecovered": 5,
+        "activeCases": 56,
+        "criticalCases": 0,
+        "hospitalizedCases": null,
+        "casesPerOneMillion": 92,
+        "deathsPerOneMillion": 4,
+        "tests": 55358,
+        "newTests": 705,
+        "testsPerOneMillion": 4722,
+        "affectedStates": 24,
+        "note": "Details of Tests were not communicated"
     }
 ]
