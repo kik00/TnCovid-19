@@ -1343,5 +1343,25 @@
         "testsPerOneMillion": 4885,
         "affectedStates": 24,
         "note": "Details of Tests were not communicated And 1 New Local Case"
+    },
+    {
+        "date": "2020-06-11",
+        "country": "TUN",
+        "cases": 1094,
+        "newCases": 1,
+        "deaths": 49,
+        "newDeaths": 0,
+        "recovered": 995,
+        "newRecovered": 0,
+        "activeCases": 50,
+        "criticalCases": 0,
+        "hospitalizedCases": null,
+        "casesPerOneMillion": 93,
+        "deathsPerOneMillion": 4,
+        "tests": 58770,
+        "newTests": 1497,
+        "testsPerOneMillion": 5013,
+        "affectedStates": 24,
+        "note": "Details of Tests were not communicated And the new case is not a local one"
     }
 ]
