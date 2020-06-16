@@ -1,19 +1,19 @@
 [
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Tunis",
         "cases": 238,
         "newCases": 0,
         "deaths": 9,
         "newDeaths": 0,
-        "recovered": 223,
-        "newRecovered": 0,
+        "recovered": 224,
+        "newRecovered": 1,
         "tests": null,
         "newTests": null,
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Ariana",
         "cases": 104,
         "newCases": 0,
@@ -26,10 +26,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "BenArous",
-        "cases": 100,
-        "newCases": 0,
+        "cases": 102,
+        "newCases": 2,
         "deaths": 4,
         "newDeaths": 0,
         "recovered": 95,
@@ -39,10 +39,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Manouba",
         "cases": 42,
-        "newCases": 1,
+        "newCases": 0,
         "deaths": 5,
         "newDeaths": 0,
         "recovered": 35,
@@ -52,10 +52,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Nabeul",
-        "cases": 18,
-        "newCases": 0,
+        "cases": 21,
+        "newCases": 3,
         "deaths": 1,
         "newDeaths": 0,
         "recovered": 15,
@@ -65,7 +65,7 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Zaghouan",
         "cases": 3,
         "newCases": 0,
@@ -78,10 +78,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Bizerte",
-        "cases": 29,
-        "newCases": 0,
+        "cases": 30,
+        "newCases": 1,
         "deaths": 1,
         "newDeaths": 0,
         "recovered": 27,
@@ -91,7 +91,7 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Béja",
         "cases": 5,
         "newCases": 0,
@@ -104,10 +104,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Jendouba",
-        "cases": 1,
-        "newCases": 0,
+        "cases": 2,
+        "newCases": 1,
         "deaths": 0,
         "newDeaths": 0,
         "recovered": 1,
@@ -117,7 +117,7 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "LeKef",
         "cases": 8,
         "newCases": 0,
@@ -130,10 +130,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Siliana",
-        "cases": 4,
-        "newCases": 0,
+        "cases": 6,
+        "newCases": 2,
         "deaths": 0,
         "newDeaths": 0,
         "recovered": 4,
@@ -143,10 +143,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Kairouan",
         "cases": 17,
-        "newCases": 7,
+        "newCases": 0,
         "deaths": 0,
         "newDeaths": 0,
         "recovered": 9,
@@ -156,7 +156,7 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Kasserine",
         "cases": 10,
         "newCases": 0,
@@ -169,10 +169,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "SidiBouzid",
-        "cases": 10,
-        "newCases": 0,
+        "cases": 11,
+        "newCases": 1,
         "deaths": 1,
         "newDeaths": 0,
         "recovered": 7,
@@ -182,7 +182,7 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Sousse",
         "cases": 90,
         "newCases": 0,
@@ -195,10 +195,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Monastir",
         "cases": 46,
-        "newCases": 1,
+        "newCases": 0,
         "deaths": 0,
         "newDeaths": 0,
         "recovered": 41,
@@ -208,10 +208,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Mahdia",
         "cases": 22,
-        "newCases": 2,
+        "newCases": 0,
         "deaths": 2,
         "newDeaths": 0,
         "recovered": 17,
@@ -221,10 +221,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Sfax",
-        "cases": 39,
-        "newCases": 0,
+        "cases": 42,
+        "newCases": 3,
         "deaths": 5,
         "newDeaths": 0,
         "recovered": 33,
@@ -234,7 +234,7 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Gafsa",
         "cases": 50,
         "newCases": 0,
@@ -247,7 +247,7 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Tozeur",
         "cases": 5,
         "newCases": 0,
@@ -260,20 +260,20 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Kébili",
-        "cases": 110,
+        "cases": 111,
         "newCases": 1,
         "deaths": 1,
         "newDeaths": 0,
-        "recovered": 99,
-        "newRecovered": 1,
+        "recovered": 101,
+        "newRecovered": 2,
         "tests": null,
         "newTests": null,
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Gabès",
         "cases": 28,
         "newCases": 0,
@@ -286,10 +286,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Médenine",
         "cases": 94,
-        "newCases": 2,
+        "newCases": 0,
         "deaths": 5,
         "newDeaths": 0,
         "recovered": 85,
@@ -299,10 +299,10 @@
         "note": null
     },
     {
-        "date": "2020-06-13",
+        "date": "2020-06-14",
         "name": "Tataouine",
-        "cases": 37,
-        "newCases": 0,
+        "cases": 38,
+        "newCases": 1,
         "deaths": 1,
         "newDeaths": 0,
         "recovered": 35,
