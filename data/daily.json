@@ -1543,5 +1543,25 @@
         "testsPerOneMillion": 5735,
         "affectedStates": 24,
         "note": "Details of Tests were not communicated And all new cases are not local"
+    },
+    {
+        "date": "2020-06-21",
+        "country": "TUN",
+        "cases": 1159,
+        "newCases": 0,
+        "deaths": 50,
+        "newDeaths": 0,
+        "recovered": 1023,
+        "newRecovered": 3,
+        "activeCases": 86,
+        "criticalCases": 0,
+        "hospitalizedCases": null,
+        "casesPerOneMillion": 98,
+        "deathsPerOneMillion": 4,
+        "tests": 67456,
+        "newTests": 222,
+        "testsPerOneMillion": 5754,
+        "affectedStates": 24,
+        "note": "Details of Tests were not communicated And all new cases are not local"
     }
 ]
